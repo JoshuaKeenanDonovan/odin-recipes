@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project in the foundations section of The Odin Project.  By the end of it I will have demonstrated that I know how to use git, write clear and direct commit messages, and upload my code so it can be viewed publicly.
