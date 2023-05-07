@@ -1,24 +1,35 @@
 body  {
     background-color: #394867;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:sans-serif;
     color: #F1F6F9;
 }
 
 h1  {
   display: flex;
   justify-content: center;
+} 
+
+/* img  {
+    display: flex;
+    justify-content: center;
 }
+ */
+
+
 
 img  {
   margin-left: 500px;
   border: 25px solid;
   border-color: #212A3E;
+  margin-bottom: 30px;
 }
 
 
 div  {
-    background-color: #F1F6F9;
-   
+    background-color: #212A3E;
+    margin: 20px 550px 10px 550px;
+    border: 12px solid;
+  border-color: #212A3E;
 }
 
 
@@ -26,7 +37,7 @@ li  {
     font-size: 60px;
     display: flex;
     justify-content: center;
-    color: #9BA4B5;
+    color: #F1F6F9;
 }
 
 
