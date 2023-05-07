@@ -1,3 +1,39 @@
 body  {
-    background-color: #F1F6F9;
+    background-color: #394867;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #F1F6F9;
 }
+
+h1  {
+  display: flex;
+  justify-content: center;
+}
+
+img  {
+  margin-left: 500px;
+  border: 25px solid;
+  border-color: #212A3E;
+}
+
+
+div  {
+    background-color: #F1F6F9;
+   
+}
+
+
+li  {
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    color: #9BA4B5;
+}
+
+
+
+/* 
+color scheme
+#F1F6F9
+#394867
+#212A3E
+#9BA4B5 */
